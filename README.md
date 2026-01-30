@@ -2,7 +2,7 @@
 
 Data Engineer / Educator / Engineering-for-Art
 
-```bash
+```
 ./life.sh all
 ```
 
