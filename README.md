@@ -6,7 +6,7 @@ Data Engineer / Educator / Engineering-for-Art
 ./life.sh all
 ```
 
-<summary>sample output</summary>
+sample output
 
 ```text
 NOW
