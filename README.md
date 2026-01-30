@@ -6,7 +6,6 @@ Data Engineer / Educator / Engineering-for-Art
 ./life.sh all
 ```
 
-<details>
 <summary>sample output</summary>
 
 ```text
@@ -22,4 +21,3 @@ BUILD
 - Metadata, lineage, quality, governance patterns
 - Small tools that reduce friction for teams
 ```
-</details>
